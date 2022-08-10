@@ -1,0 +1,21 @@
+.bgimage {
+    background-image: url("../image/bg3.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+.bgimage2 {
+    background-image: url("../image/bg5.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+.bgimage3 {
+    background-image: url("../image/bg6.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}

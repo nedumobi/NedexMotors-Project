@@ -1,0 +1,152 @@
+/*.container {
+    display: flex;
+    gap: 5px;
+    /* width: 600px;
+    height: 600px;
+    border: 2px blue dotted;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center; 
+
+} 
+*/
+/* .child {
+    height: 30px;
+    flex-basis: 120px;
+    border: 1px red solid;
+    background-color: aqua;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 10px;
+    
+} */
+
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+h2 {
+    color: rgb(227, 224, 215);
+    font-family: 'Space Mono', monospace;
+    
+   }
+.flex {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.ct {
+ height: 30px;
+ flex-basis: 300px;
+ flex-shrink: 0;
+
+}
+
+.ct2 {
+    height: 30px;
+    width: 400px;
+
+    
+   }
+
+li {
+    list-style-type: none;
+}
+
+
+h1 {
+
+    font-family: Lucida Grande, Lucida Sans Unicode;
+}
+
+
+
+.center1 {
+    margin-right: auto;
+	margin-left: auto;
+}
+
+ .container-nav {
+     width: 1000px;
+    height: 40px;
+   margin-right: auto;
+	margin-left: auto;
+    padding-top: 10px;
+}
+
+.font1 {
+    font-family: Lucida Console;
+} 
+
+
+
+/* .minflex {
+    display: flex;
+    gap:35px;
+    justify-content: end;
+} */
+
+
+
+.center {
+    text-align: center;
+    border: 3px solid rgb(232, 238, 232);
+    margin-left: 100px;
+    margin-right: 820px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+  }
+
+
+
+body, ul,li, h1,h2,h3,h4,h5,h6,p {
+	margin: 0px;
+	padding: 0px;
+}
+.af1 {
+    align-self: flex-start;
+}
+
+
+
+
+.form-control {
+	min-height: 30px;
+	font-size: 16px;
+	padding-left: 10px;
+	box-sizing: border-box;
+}
+.submit {
+	font-size: 16px;
+	border-radius: 5px;
+	text-align: center;
+    background-color: orchid;
+}
+
+.maillist {
+	font-size: 16px;
+}
+
+
+
+.conatiner-fluid {
+	width: 100%;
+}
+.container {
+	width: 800px;
+}
+
+ 
